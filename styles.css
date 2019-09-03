@@ -1,0 +1,18 @@
+/*This is my css file*/
+
+/*styles of tags*/
+html {
+  background-color: B2EBF2;
+}
+
+
+/*styles of classes*/
+.babyshark {
+  background-color: FF99FF;
+}
+
+
+/*styles of id*/
+#daddyshark {
+  background-color: D7BDE2;
+}
